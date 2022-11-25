@@ -33,6 +33,8 @@
             android:name=".BitKeyPadActivity"
             android:parentActivityName=".BitCalActivity">
         </activity>
-    </application>
 
+        <activity android:name=".SubActivity"
+            android:screenOrientation="landscape"/>
+    </application>
 </manifest>
