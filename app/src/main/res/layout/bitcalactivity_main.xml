@@ -68,6 +68,8 @@
             android:textAllCaps="false"
             android:textSize="25sp"
             android:textStyle="bold"
+            app:layout_column="8"
+            app:layout_row="0"
             tools:text="123456789" />
 
         <TextView

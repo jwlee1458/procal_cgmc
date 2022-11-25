@@ -22,19 +22,19 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        
-         <activity
+
+        <activity
             android:name=".BitCalActivity"
+            android:screenOrientation="landscape"
             android:exported="true">
-         
-        </activity>
-        <!-- 키패드는 비트연산 내에서 입력방식을 바꾸는 방식 2진수로-->
-         <activity
-            android:name=".BitKeyPadActivity"
-            android:parentActivityName=".BitCalActivity">
         </activity>
 
-        <activity android:name=".SubActivity"
-            android:screenOrientation="landscape"/>
+        <!--키패드는 비트연산 내에서 입력방식을 바꾸는 방식 2진수로-->
+        <activity
+            android:name=".BitKeyPadActivity"
+            android:screenOrientation="landscape"
+            android:parentActivityName=".BitCalActivity" >
+        </activity>
+
     </application>
 </manifest>

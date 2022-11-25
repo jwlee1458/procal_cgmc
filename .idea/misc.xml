@@ -5,6 +5,9 @@
       <map>
         <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/bitcalactivity_main.xml" value="0.18725951261222745" />
+        <entry key="app/src/main/res/layout/bitkeypadactivity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/sub2activity_main.xml" value="0.165" />
         <entry key="app/src/main/res/layout/subactivity_main.xml" value="0.165" />
       </map>
     </option>

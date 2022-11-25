@@ -6,7 +6,7 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 
-class SubActivity : AppCompatActivity() {
+class BitKeyPadActivity : AppCompatActivity() { //비트패턴 기능
     var isFirstInput = true // 첫 번째 입력값인지 확인
     var isOperatorClick = false // 연산자가 클릭이 되어 있는지 체크
     var resultNumber = 0.0
@@ -21,7 +21,7 @@ class SubActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.subactivity_main)
+        setContentView(R.layout.bitkeypadactivity_main)
 
         resultTextView = findViewById<View>(R.id.resultTextView) as TextView
         mathTextView = findViewById<View>(R.id.mathTextView) as TextView
