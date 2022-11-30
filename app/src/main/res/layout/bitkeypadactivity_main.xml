@@ -104,7 +104,7 @@
         android:layout_height="40dp">
 
         <android.widget.Button
-            android:id="@+id/button1"
+            android:id="@+id/button_47"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="70dp"
@@ -118,7 +118,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button2"
+            android:id="@+id/button_46"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -132,7 +132,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button3"
+            android:id="@+id/button_45"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -146,7 +146,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button4"
+            android:id="@+id/button_44"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -160,7 +160,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button5"
+            android:id="@+id/button_43"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="16dp"
@@ -174,7 +174,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button6"
+            android:id="@+id/button_42"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -188,7 +188,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button7"
+            android:id="@+id/button_41"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -202,7 +202,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button8"
+            android:id="@+id/button_40"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -216,7 +216,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button9"
+            android:id="@+id/button_39"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="16dp"
@@ -230,7 +230,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button10"
+            android:id="@+id/button_38"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -244,7 +244,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button11"
+            android:id="@+id/button_37"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -258,7 +258,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button12"
+            android:id="@+id/button_36"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -272,7 +272,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button13"
+            android:id="@+id/button_35"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="16dp"
@@ -286,7 +286,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button14"
+            android:id="@+id/button_34"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -300,7 +300,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button15"
+            android:id="@+id/button_33"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -314,7 +314,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button16"
+            android:id="@+id/button_32"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -374,7 +374,7 @@
         android:layout_height="40dp">
 
         <android.widget.Button
-            android:id="@+id/button17"
+            android:id="@+id/button_31"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="70dp"
@@ -387,7 +387,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button18"
+            android:id="@+id/button_30"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -400,7 +400,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button19"
+            android:id="@+id/button_29"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -413,7 +413,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button20"
+            android:id="@+id/button_28"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -426,7 +426,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button21"
+            android:id="@+id/button_27"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="16dp"
@@ -439,7 +439,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button22"
+            android:id="@+id/button_26"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -452,7 +452,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button23"
+            android:id="@+id/button_25"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -465,7 +465,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button24"
+            android:id="@+id/button_24"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -478,7 +478,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button25"
+            android:id="@+id/button_23"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="16dp"
@@ -491,7 +491,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button26"
+            android:id="@+id/button_22"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -504,7 +504,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button27"
+            android:id="@+id/button_21"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -517,7 +517,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button28"
+            android:id="@+id/button_20"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -530,7 +530,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button29"
+            android:id="@+id/button_19"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="16dp"
@@ -543,7 +543,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button30"
+            android:id="@+id/button_18"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -556,7 +556,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button31"
+            android:id="@+id/button_17"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -569,7 +569,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button32"
+            android:id="@+id/button_16"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -628,7 +628,7 @@
         android:layout_height="40dp">
 
         <android.widget.Button
-            android:id="@+id/button33"
+            android:id="@+id/button_15"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="70dp"
@@ -641,7 +641,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button34"
+            android:id="@+id/button_14"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -654,7 +654,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button35"
+            android:id="@+id/button_13"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -667,7 +667,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button36"
+            android:id="@+id/button_12"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -680,7 +680,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button37"
+            android:id="@+id/button_11"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="16dp"
@@ -693,7 +693,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button38"
+            android:id="@+id/button_10"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -706,7 +706,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button39"
+            android:id="@+id/button_9"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -719,7 +719,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button40"
+            android:id="@+id/button_8"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -732,7 +732,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button41"
+            android:id="@+id/button_7"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="16dp"
@@ -745,7 +745,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button42"
+            android:id="@+id/button_6"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -758,7 +758,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button43"
+            android:id="@+id/button_5"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -771,7 +771,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button44"
+            android:id="@+id/button_4"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -784,7 +784,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button45"
+            android:id="@+id/button_3"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="16dp"
@@ -797,7 +797,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button46"
+            android:id="@+id/button_2"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -810,7 +810,7 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button47"
+            android:id="@+id/button_1"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
@@ -823,14 +823,14 @@
             android:textStyle="bold" />
 
         <android.widget.Button
-            android:id="@+id/button48"
+            android:id="@+id/button_0"
             android:layout_width="25dp"
             android:layout_height="30dp"
             android:layout_marginStart="5dp"
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="numButtonClick"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
