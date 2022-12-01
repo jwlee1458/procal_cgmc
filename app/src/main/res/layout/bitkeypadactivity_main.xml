@@ -112,7 +112,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="47"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -126,7 +127,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="46"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -140,7 +142,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="45"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -154,7 +157,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="44"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -168,7 +172,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="43"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -182,7 +187,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="42"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -196,7 +202,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="41"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -210,7 +217,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="40"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -224,7 +232,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="39"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -238,7 +247,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="38"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -252,7 +262,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="37"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -266,7 +277,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="36"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -280,7 +292,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="35"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -294,7 +307,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="34"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -308,7 +322,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="33"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -322,7 +337,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="32"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -381,7 +397,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="31"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -394,7 +411,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="30"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -407,7 +425,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="29"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -420,7 +439,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="28"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -433,7 +453,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="27"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -446,7 +467,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="26"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -459,7 +481,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="25"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -472,7 +495,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="24"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -485,7 +509,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="23"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -498,7 +523,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="22"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -511,7 +537,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="21"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -524,7 +551,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="20"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -537,7 +565,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="19"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -550,7 +579,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="18"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -563,7 +593,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="17"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -576,7 +607,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="16"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -635,7 +667,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="15"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -648,7 +681,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="14"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -661,7 +695,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="13"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -674,7 +709,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="12"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -687,7 +723,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="11"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -700,7 +737,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="10"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -713,7 +751,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="9"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -726,7 +765,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="8"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -739,7 +779,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="7"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -752,7 +793,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="6"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -765,7 +807,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="5"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -778,7 +821,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="4"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -791,7 +835,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="3"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -804,7 +849,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="2"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -817,7 +863,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="bitkeypadButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="1"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
@@ -830,7 +877,8 @@
             android:layout_marginEnd="5dp"
             android:background="#D5D5D5"
             android:backgroundTint="#D5D5D5"
-            android:onClick="numButtonClick"
+            android:onClick="B_NumButtonClick"
+            android:tag="0"
             android:text="0"
             android:textSize="24sp"
             android:textStyle="bold" />
