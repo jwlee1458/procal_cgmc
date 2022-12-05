@@ -114,6 +114,7 @@ class BitCalActivity : AppCompatActivity() { //진수변환, 비트연산 기능
         }
     }
 
+
     private fun calculator(resultNumber: Double, inputNumber: Double, operator: String): Double {
         var resultNumber = resultNumber
         when (operator) {
@@ -122,6 +123,14 @@ class BitCalActivity : AppCompatActivity() { //진수변환, 비트연산 기능
             "-" -> resultNumber -= inputNumber
             "x" -> resultNumber *= inputNumber
             "÷" -> resultNumber /= inputNumber
+//bit cal
+            "&" -> resultNumber = (resultNumber.toInt() and inputNumber.toInt()).toDouble()
+            "|" -> resultNumber = (resultNumber.toInt() or inputNumber.toInt()).toDouble()
+            "^" -> resultNumber = (resultNumber.toInt() xor inputNumber.toInt()).toDouble()
+            "~" -> resultNumber = (resultNumber.toInt().inv() ).toDouble() //단위 지정오류
+            ">>" -> resultNumber = (resultNumber.toInt() shr inputNumber.toInt()).toDouble()
+            "shl" -> resultNumber = (resultNumber.toInt() shl inputNumber.toInt()).toDouble()
+
         }
         return resultNumber
     }
